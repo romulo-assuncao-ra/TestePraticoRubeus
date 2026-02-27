@@ -3,15 +3,15 @@
 📌 Objetivo
 
 Realizar a análise de qualidade das páginas:
-  https://qualidade.apprbs.com.br/certificacao
-  https://qualidade.apprbs.com.br/site
+ *https://qualidade.apprbs.com.br/certificacao
+  *https://qualidade.apprbs.com.br/site
 
 A avaliação foi conduzida com foco em:
-  Funcionalidade
-  Usabilidade
-  Desejabilidade (UX/UI)
-  Responsividade
-  Validação de Formulários
+  * Funcionalidade
+  * Usabilidade
+  * Desejabilidade (UX/UI)
+  * Responsividade
+  * Validação de Formulários
 
 🔎 Metodologia
 
