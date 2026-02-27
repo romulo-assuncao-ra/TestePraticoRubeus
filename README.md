@@ -23,7 +23,7 @@ Foram realizados:
   * Análise de comportamento de botões e links
 
 Ambiente de teste:
-  * Navegador: Google Chrome (versão atual)
+  * Navegador: Google Chrome (Versão 145.0.7632.76 (Versão oficial) 64 bits)
   * Dispositivo: Desktop e Mobile (modo responsivo)
   * Sistema Operacional: Windows / Android
 
