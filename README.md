@@ -16,27 +16,28 @@ A avaliação foi conduzida com foco em:
 🔎 Metodologia
 
 Foram realizados:
-  Testes manuais exploratórios
-  Testes de validação de formulário
-  Testes de navegação
-  Testes em resolução desktop e mobile
-  Análise de comportamento de botões e links
+  * Testes manuais exploratórios
+  * Testes de validação de formulário
+  * Testes de navegação
+  * Testes em resolução desktop e mobile
+  * Análise de comportamento de botões e links
 
 Ambiente de teste:
-  Navegador: Google Chrome (versão atual)
-  Dispositivo: Desktop e Mobile (modo responsivo)
-  Sistema Operacional: Windows / Android
+  * Navegador: Google Chrome (versão atual)
+  * Dispositivo: Desktop e Mobile (modo responsivo)
+  * Sistema Operacional: Windows / Android
 
 🧩 Itens Identificados
+
   📄 Página: /certificacao - https://qualidade.apprbs.com.br/certificacao
   
-  Item 01 - Botão "Saiba mais" sem ação.
-  Tipo: Correção
-  Classificação: Utilidade
-  Prioridade: Baixa
-  Descrição: Após clicar no botão "Saiba mais" não está realizando o redirecionamento para próxima página.
-  Resultado Esperado: Botão deve executar ação correspondente (redirecionamento ou abertura de conteúdo).
-  Resultado Obtido: Botão "Saiba mais" sem execução.
+  Item 01 - Botão "Saiba mais" sem ação. <p>
+  Tipo: Correção <p> 
+  Classificação: Utilidade <p>
+  Prioridade: Baixa <p>
+  Descrição: Após clicar no botão "Saiba mais" não está realizando o redirecionamento para próxima página. <p>
+  Resultado Esperado: Botão deve executar ação correspondente (redirecionamento ou abertura de conteúdo). <p>
+  Resultado Obtido: Botão "Saiba mais" sem execução. <p>
        
   Item 02 - Tela de Inscrição inacessível
   Tipo: Correção
